@@ -1,0 +1,51 @@
+.container
+    {
+    background-color:#efeee7;
+    color: #333333;
+    font-family: "Roboto", Georgia, "Times New Roman", Times, serif;
+    margin: 0;
+    padding: 0;
+    }
+
+#main-bio
+    {
+    }
+
+#contact-info
+    {
+
+    }
+
+#bio-image
+    {
+
+    }
+
+body
+    {
+    background-color:#efeee7;
+    color: #333333;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    margin: 0;
+    }
+
+.header
+/*This padding below made sure that the header had space before/after the text. Putting it in .header was causing space */
+
+{
+    text-align: center;
+    background-color: #333333;
+    font-size: 20px;
+    color: #efeee7;
+    padding: 5px;
+}
+
+h1
+/*Padding helps make more space around the content; order is content, padding, border, margin, */
+    {
+    }
+
+section
+    {
+    margin: 10px;
+    }
