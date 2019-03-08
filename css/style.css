@@ -37,7 +37,6 @@ h1
     }
 
 h2
-/*Padding helps make more space around the content; order is content, padding, border, margin, */
     {   
     }    
 
@@ -53,8 +52,8 @@ a
 
 .margin
     {
-    margin-left: 30px;
-    margin-right: 30px;
+    margin-left: 5%;
+    margin-right: 5%;
     }
 
 .left
