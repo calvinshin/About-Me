@@ -1,24 +1,15 @@
-.container
-    {
-    background-color:#efeee7;
-    color: #333333;
-    font-family: "Roboto", Georgia, "Times New Roman", Times, serif;
-    margin: 0;
-    padding: 0;
-    }
-
 #main-bio
     {
     }
 
 #contact-info
     {
-
     }
 
 #bio-image
     {
-
+    vertical-align: text-top;
+    display: inline-block;
     }
 
 body
@@ -29,7 +20,7 @@ body
     margin: 0;
     }
 
-.header
+header
 /*This padding below made sure that the header had space before/after the text. Putting it in .header was causing space */
 
 {
@@ -45,7 +36,39 @@ h1
     {
     }
 
-section
+h2
+/*Padding helps make more space around the content; order is content, padding, border, margin, */
+    {   
+    }    
+
+strong
     {
-    margin: 10px;
+    font-size: 120%;
+    }
+
+a
+    {
+    color: crimson
+    }
+
+.margin
+    {
+    margin-left: 30px;
+    margin-right: 30px;
+    }
+
+.left
+    {
+    float: left;
+    }
+
+.right
+    {
+    float: right;
+    width: 40%;
+    }
+
+.width60
+    {
+    width: 60%
     }
