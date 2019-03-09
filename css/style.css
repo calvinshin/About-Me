@@ -1,5 +1,7 @@
 #main-bio
     {
+    margin-left: 40%;
+    margin-right: 5%;
     }
 
 #contact-info
@@ -8,8 +10,6 @@
 
 #bio-image
     {
-    vertical-align: text-top;
-    display: inline-block;
     }
 
 body
@@ -38,6 +38,7 @@ h1
 
 h2
     {   
+    margin-top: 25px;
     }    
 
 strong
@@ -64,10 +65,16 @@ a
 .right
     {
     float: right;
-    width: 40%;
+    width: 33%;
     }
 
 .width60
     {
     width: 60%
     }
+
+.clear
+    {
+    clear: both;
+    }
+
